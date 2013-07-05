@@ -77,7 +77,7 @@ h1.title {
 }
 
 .wrapper {
-  width: 675px;
+  width: 800px;
   margin: 0 auto;
 }
 
@@ -186,7 +186,7 @@ p.tagline {
   position: fixed;
   top: 0;
   left: 50%;
-  width: 693px;
+  width: 800px;
   margin-left: -352px;
   background: #222;
   border: 5px solid #444;
@@ -420,7 +420,7 @@ footer .owner p a {
 }
 
 .markdown-body ul {
-  list-style-type: disc;
+  list-style-type: square;
 }
 
 .markdown-body li,
@@ -447,7 +447,7 @@ footer .owner p a {
 }
 
 .markdown-body table {
-  width: 673px;
+  width: 800px;
   margin-left: -20px;
   margin-right: -20px;
 }

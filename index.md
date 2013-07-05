@@ -3,13 +3,6 @@ title: Paulo Cheque CV
 layout: default
 ---
 
-Brazilian, 30 years old, programmer and project manager
-About me: http://about.me/paulocheque
-Skype: paulocheque
-Email: paulocheque [at] gmail.com
-GitHub: http://github.com/paulocheque
-Twitter: http://twitter.com/paulocheque
-LinkedIn: http://br.linkedin.com/in/paulocheque
 
 <h3>
 <a name="education" class="anchor" href="#education"><span class="octicon octicon-link"></span></a>Education</h3>
@@ -46,7 +39,7 @@ LinkedIn: http://br.linkedin.com/in/paulocheque
 <dl>
   <dt>(04/2012 - present) <a href="http://sdk.revmob.com">RevMob</a></dt>
     <dd>
-      Tech-Lead and Programmer for mobile platforms: iOS (Objective-C), Android (Java), Corona SDK (Lua), Unity (C#).
+      Tech-Lead and Programmer for mobile platforms: iOS (Objective-C), Android (Java), Corona SDK (Lua), Unity (C#/Javascript), Marmalade(C++) etc.
     </dd>
 
   <dt>(04/2012 - 07/2012) <a href="http://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></dt>
@@ -140,23 +133,23 @@ LinkedIn: http://br.linkedin.com/in/paulocheque
 <h4>Speacker</h4>
 
 <ul>
-  <li>(09/2011) Python Brasil: Automated Test Patterns with Django</li>
-  <li>(02/2009) II Locaweb TechDay: Development of Good Software through Automated Tests (<a href="http://vimeo.com/3621829">Video</a>)</li>
-  <li>(10/2008) Encontro Ágil 2008: UOL: Getting Agile with Scrum and XP practices</li>
-  <li>(06/2007) I Workshop de Desenvolvimento Rápido de Aplicações (WDRA): Development with agility: Experiences in a implementation of a large project</li>
+  <li>(09/2011) <a href="http://www.python.org.br/wiki">Python Brasil</a>: Automated Test Patterns with Django</li>
+  <li>(02/2009) <a href="http://blog.locaweb.com.br/">II Locaweb TechDay</a>: Development of Good Software through Automated Tests (<a href="http://vimeo.com/3621829">Video</a>)</li>
+  <li>(10/2008) <a href="http://www.encontroagil.com.br/">Encontro Ágil 2008</a>: UOL: Getting Agile with Scrum and XP practices</li>
+  <li>(06/2007) <a href="http://www.proqualiti.org.br/sbqs2007">I Workshop de Desenvolvimento Rápido de Aplicações (WDRA)</a>: Development with agility: Experiences in a implementation of a large project</li>
 </ul>
 
 <h4>Listener</h4>
 
 <ul>
-  <li>(05/2009) <a href="http://www.devmedia.com.br/es_conference">Engenharia de Software Conference</a></li>
-  <li>(09/2008) <a href="http://www.sucesusp.org.br">Just Java 2008</a></li>
-  <li>(12/2007) <a href="http://web.unifacs.br/eselaw">IV Experimental Software Engineering Latin America Workshop (ESELAW)</a></li>
-  <li>(06/2007) <a href="http://www.proqualiti.org.br/sbqs2007">VI Simpósio Brasileiro de Qualidade de Software (SBQS)</a> - PE/Brazil</li>
+  <li>(05/2009) <a href="http://www.devmedia.com.br/es_conference">Engenharia de Software Conference - SP/Brazil</a></li>
+  <li>(09/2008) <a href="http://www.sucesusp.org.br">Just Java 2008 - SP/Brazil</a></li>
+  <li>(12/2007) <a href="http://web.unifacs.br/eselaw">IV Experimental Software Engineering Latin America Workshop (ESELAW) - SP/Brazil</a></li>
+  <li>(06/2007) <a href="http://www.proqualiti.org.br/sbqs2007">VI Simpósio Brasileiro de Qualidade de Software (SBQS) - PE/Brazil</a></li>
   <li>(06/2007) <a href="http://www.proqualiti.org.br/sbqs2007">I Workshop de Desenvolvimento Rápido de Aplicações (WDRA) - PE/Brazil</a></li>
-  <li>(05/2007) <a href="http://code.google.com/events/developerday/2007">Google Developer Day 2007</a></li>
-  <li>(04/2007) <a href="http://www.fisl.org.br">Fórum Internacional de Software Livre (FISL) 8.0</a> - RS/Brazil</li>
-  <li>(04/2006) <a href="http://www.fisl.org.br">Fórum Internacional de Software Livre (FISL) 7.0</a> - RS/Brazil</li>
+  <li>(05/2007) <a href="http://code.google.com/events/developerday/2007">Google Developer Day 2007 - SP/Brazil</a></li>
+  <li>(04/2007) <a href="http://www.fisl.org.br">Fórum Internacional de Software Livre (FISL) 8.0 - RS/Brazil</a></li>
+  <li>(04/2006) <a href="http://www.fisl.org.br">Fórum Internacional de Software Livre (FISL) 7.0 - RS/Brazil</a></li>
 </ul>
 
 <h4>Evaluator talk</h4>
@@ -174,30 +167,9 @@ LinkedIn: http://br.linkedin.com/in/paulocheque
 <h3>
 <a name="computer-skills" class="anchor" href="#computer-skills"><span class="octicon octicon-link"></span></a>Computer Skills</h3>
 
-<dl>
-  <dt></dt>
-    <dd>
-    </dd>
+<p>Advanced skills in Python, Java, C, Groovy, Objective-C and JavaScript.</p>
+<p>Intermediate skills in Ruby, Perl, Linux bash script and Lua</p>
+<p>Basic skills in Smalltalk, C++ and Windows bash script</p>
 
-  <dt></dt>
-    <dd>
-    </dd>
-
-  <dt></dt>
-    <dd>
-    </dd>
-
-  <dt></dt>
-    <dd>
-    </dd>
-
-  <dt></dt>
-    <dd>
-    </dd>
-</dl>
-
-Advanced: Python, Java, C, Groovy, Objective-C and JavaScript
-Intermediate: Ruby, Perl, Linux bash script and Lua
-Basic: Smalltalk, C++, Windows bash script
 
 
