@@ -37,7 +37,7 @@ layout: default
 <a name="work-experience" class="anchor" href="#work-experience"><span class="octicon octicon-link"></span></a>Work Experience</h3>
 
 <dl>
-  <dt>(04/2012 - present) <a href="http://sdk.revmob.com">RevMob</a></dt>
+  <dt>(04/2012 - 10/2013) <a href="http://sdk.revmob.com">RevMob</a></dt>
     <dd>
       Tech-Lead and Programmer for mobile platforms: iOS (Objective-C), Android (Java), Corona SDK (Lua), Unity (C#/Javascript), Marmalade(C++) etc.
     </dd>
