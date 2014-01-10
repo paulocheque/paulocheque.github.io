@@ -1,0 +1,33 @@
+Application for job opportunity
+
+I would like to apply to the job opportunity of this link:
+
+Hi,
+
+My name is Paulo and I am a Bacharel and Master in Computer Science by University of São Paulo.
+
+I am currently living in Brazil but I visited Hasselt and Hasselt University in November 2013 and I have plans to go back to Belgium again in the beginning of 2014. It was a very pleasant experience! I have an open request for Portuguese citizenship in progress, but right now I would need a work visa to move immediately.
+
+My Master dissertation is about Automated Test Patterns [1] and I am passionate about object-oriented programming and programming languages. I have experience in Web and Mobile (iOS and Android) programming.
+
+I have about 10 years of experience as a software developer, with many popular open source projects [2] and I have developed a complex system that deal with many programming languages and algorithms [3][4].
+
+You can find a complete and detailed CV in english in the Web [5] as well as all links about me and my projects [6][7].
+
+I am very thankful for your attention!
+
+[1] http://www.teses.usp.br/teses/disponiveis/45/45134/tde-02042012-120707/pt-br.php
+[2] https://github.com/paulocheque
+[3] http://www.gatournament.com
+[4] https://github.com/gatournament
+[5] http://paulocheque.github.io/CV-en/CV-PauloCheque.html
+[6] http://paulocheque.github.io
+[7] http://about.me/paulocheque
+
+Contact in Belgium: Mario Torres from KU Leuven: mario.henrique@gmail.com
+Contact in the academy: Fabio Kon from University of São Paulo: kon@ime.usp.br
+
+Best regards,
+
+Paulo Cheque
+
