@@ -20,6 +20,7 @@ def colorize(text, color)
 end
 
 def compile_markdown
+  # gem install jekyll
   puts colorize("Compyling markdown", :blue)
   sh "jekyll build --safe"
 end

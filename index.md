@@ -25,11 +25,6 @@ layout: default
     <dd>
       IME/USP - Institute of Mathematics and Statistics - University of São Paulo
     </dd>
-
-  <dt>High School (1988-1999)</dt>
-    <dd>
-      Colégio Marista Nossa Senhora da Glória
-    </dd>
 </dl>
 
 
@@ -37,6 +32,16 @@ layout: default
 <a name="work-experience" class="anchor" href="#work-experience"><span class="octicon octicon-link"></span></a>Work Experience</h3>
 
 <dl>
+  <dt>(05/2014 - present) <a href="http://smart.pr">Smart.PR (in Amsterdam)</a></dt>
+    <dd>
+      Senior backend programmer in Python/Django with Rest APIs, MySQl database and AngularJS in the frontend.
+    </dd>
+
+  <dt>(07/2013 - present) <a href="http://www.toptal.com/resume/paulo-cheque">TopTal</a></dt>
+    <dd>
+      Member and programmer of the TopTal cooperative.
+    </dd>
+
   <dt>(04/2012 - 10/2013) <a href="http://sdk.revmob.com">RevMob</a></dt>
     <dd>
       Tech-Lead and Programmer for mobile platforms: iOS (Objective-C), Android (Java), Corona SDK (Lua), Unity (C#/Javascript), Marmalade(C++) etc.
@@ -142,6 +147,8 @@ layout: default
 <h4>Listener</h4>
 
 <ul>
+  <li>(05/2014) <a href="https://aws.amazon.com/pt/aws-summit-2014/sao-paulo/">AWS Summit 2014 - SP/Brazil</a></li>
+  <li>(05/2013) <a href="https://aws.amazon.com">AWS Summit 2013 - SP/Brazil</a></li>
   <li>(05/2009) <a href="http://www.devmedia.com.br/es_conference">Engenharia de Software Conference - SP/Brazil</a></li>
   <li>(09/2008) <a href="http://www.sucesusp.org.br">Just Java 2008 - SP/Brazil</a></li>
   <li>(12/2007) <a href="http://web.unifacs.br/eselaw">IV Experimental Software Engineering Latin America Workshop (ESELAW) - SP/Brazil</a></li>
@@ -162,6 +169,17 @@ layout: default
   <li>(06/2009) <a href="http://www.fisl.org.br/10/www/wsl2009">X Workshop de Software Livre (WSL 2009) – FISL 10.0</a></li>
 </ul>
 
+<h4>Portifolio</h4>
+
+<ul>
+  <li><a href="http://entradarapida.com">Entrada Rápida</a></li>
+  <li><a href="http://baladasusp.com">Baladas USP</a></li>
+  <li><a href="https://itunes.apple.com/us/app/baladas-usp/id572314926?ls=1&mt=8">Baladas USP for iOS</a></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.baladasusp">Baladas USP for Android</a></li>
+  <li><a href="http://placasmarcadas.com">Placas Marcadas</a></li>
+  <li><a href="http://gatournament.com">Game Algorithms Tournament</a></li>
+  <li><a href="http://megaloteria.net">MegaLoteria.net</a></li>
+</ul>
 
 
 <h3>
