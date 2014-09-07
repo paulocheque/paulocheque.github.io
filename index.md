@@ -32,6 +32,11 @@ layout: default
 <a name="work-experience" class="anchor" href="#work-experience"><span class="octicon octicon-link"></span></a>Work Experience</h3>
 
 <dl>
+  <dt>(07/2014 - present) <a href="http://99taxis.com">99taxis</a></dt>
+    <dd>
+      Senior developer. This job includes backend tasks for different projects in Java/Scala. It also includes mobile application development for iOS and Android.
+    </dd>
+
   <dt>(05/2014 - present) <a href="http://smart.pr">Smart.PR (in Amsterdam)</a></dt>
     <dd>
       Senior backend programmer in Python/Django with Rest APIs, MySQl database and AngularJS in the frontend.
