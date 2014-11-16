@@ -1,4 +1,4 @@
-Paulo Cheque CV
+CV
 =====================
 
 Education
@@ -22,7 +22,7 @@ Education
   IME/USP - Institute of Mathematics and Statistics - University of São Paulo
 
 
-Links
+Main Links
 ------------------------
 
 - http://about.me/paulocheque
@@ -36,42 +36,42 @@ Links
 Work Experience
 ------------------------
 
-**(07/2014 - present) http://99taxis.com 99taxis**
+##### (07/2014 - present) 99taxis - http://99taxis.com
 
   Senior developer. This job includes backend tasks for different projects in Java/Scala. It also includes mobile application development for iOS and Android.
 
 
-**(05/2014 - present) http://smart.pr Smart.PR (in Amsterdam)**
+##### (05/2014 - present) Smart.PR (in Amsterdam) - http://smart.pr
 
   Senior backend programmer in Python/Django with Rest APIs, MySQl database and AngularJS in the frontend.
 
 
-**(07/2013 - present) http://www.toptal.com/resume/paulo-cheque TopTal**
+##### (07/2013 - present) TopTal - http://www.toptal.com/resume/paulo-cheque
 
   Member and programmer of the TopTal cooperative.
 
 
-**(04/2012 - 10/2013) http://sdk.revmob.com RevMob**
+##### (04/2012 - 10/2013) RevMob - http://sdk.revmob.com
 
   Tech-Lead and Programmer for mobile platforms: iOS (Objective-C), Android (Java), Corona SDK (Lua), Unity (C#/Javascript), Marmalade(C++) etc.
 
 
-**(04/2012 - 07/2012) http://www.mackenzie.br Universidade Presbiteriana Mackenzie**
+##### (04/2012 - 07/2012) Universidade Presbiteriana Mackenzie - http://www.mackenzie.br
 
   Professor of a pos-graduation course in the University Mackenzie: Project and Agile Development of Software
 
 
-**(12/2010 - 04/2012) http://www.nokiasiemensnetworks.com Nokia Siemens Networks**
+##### (12/2010 - 04/2012) Nokia Siemens Networks - http://www.nokiasiemensnetworks.com
 
   Tech-Lead and senior programmer in Python/Django.
 
 
-**(06/2008 - 12/2008) http://www.uol.com.br UOL**
+##### (06/2008 - 12/2008) UOL - http://www.uol.com.br
 
   Quality analist and consultant in automated tests
 
 
-**(05/2006 - present) http://ccsl.ime.usp.br/agilcoop AgilCoop**
+##### (05/2006 - present) AgilCoop - http://ccsl.ime.usp.br/agilcoop
 
   Creator and professor of courses, speaker, coach e event organizer.
   Course: Development Good Software through Automated Tests - 2009 e 2010.
@@ -80,17 +80,17 @@ Work Experience
   Event: Agile Meeting - 2008.
 
 
-**(08/2006 - 06/2008) https://sistemas.usp.br/janus PRPG/USP**
+##### (08/2006 - 06/2008) PRPG/USP - https://sistemas.usp.br/janus
 
   Java/JSF programmer
 
 
-**(01/2006 - 08/2006) http://www.al.sp.gov.br ALESP**
+##### (01/2006 - 08/2006) ALESP - http://www.al.sp.gov.br
 
   Java/Struts programmer
 
 
-**(03/2003 - 09/2004) http://www.ime.usp.br IME/USP**
+##### (03/2003 - 09/2004) IME/USP - http://www.ime.usp.br
 
   Computer technician
 
@@ -99,32 +99,32 @@ Work Experience
 Academy
 ------------------------
 
-**(10/2011) Article - MiniPLoP BR**
+##### (10/2011) Article - MiniPLoP BR
 
   Published and debated the article “Automated Test Patterns”.
 
 
-**(07/2011) Master – IME/USP**
+##### (07/2011) Master – IME/USP
 
   Published dissertation “Automated Test Patterns” and scholar by QualiPSo project.
 
 
-**(07/2008) Artigo - Revista Engenharia de Software Magazine**
+##### (07/2008) Artigo - Revista Engenharia de Software Magazine**
 
   Published in Edition 03 (Year 1) of ES Magazine the article: “A Importância dos Testes Automatizados – Controle ágil, rápido e confiável de qualidade”.
 
 
-**(01/2008) Paper - First QualiPSo Conference Report**
+##### (01/2008) Paper - First QualiPSo Conference Report
 
   Published in the first QualiPSo conference in Itália the paper: “Automatic Quality Evaluation of Open Source Projects”.
 
 
-**(06/2007) I WDRA – Experience Report**
+##### (06/2007) I WDRA – Experience Report
 
   Published in Workshop of Rapid Application Development the experience report: “Desenvolvendo com agilidade: Experiências na reimplementação de um sistema de grande porte”.
 
 
-**(03/2006 - 07/2006) Discipline monitor**
+##### (03/2006 - 07/2006) Discipline monitor
 
   Introduction of Computation - IME/USP
 
@@ -133,7 +133,7 @@ Academy
 Qualifications
 ------------------------
 
-- (01/2009) Sun Certified Programmer for the Java Platform, Standard Edition 6
+(01/2009) Sun Certified Programmer for the Java Platform, Standard Edition 6
 
 
 Events
@@ -142,34 +142,51 @@ Events
 Speacker
 ------------------------
 
-- (09/2011) http://www.python.org.br/wiki Python Brasil: Automated Test Patterns with Django
-- (02/2009) http://blog.locaweb.com.br/ II Locaweb TechDay: Development of Good Software through Automated Tests (http://vimeo.com/3621829 Video)
-- (10/2008) http://www.encontroagil.com.br/ Encontro Ágil 2008: UOL: Getting Agile with Scrum and XP practices
-- (06/2007) http://www.proqualiti.org.br/sbqs2007 I Workshop de Desenvolvimento Rápido de Aplicações (WDRA): Development with agility: Experiences in a implementation of a large project
+(09/2011) http://www.python.org.br/wiki Python Brasil: Automated Test Patterns with Django
+
+(02/2009) http://blog.locaweb.com.br/ II Locaweb TechDay: Development of Good Software through Automated Tests (http://vimeo.com/3621829 Video)
+
+(10/2008) http://www.encontroagil.com.br/ Encontro Ágil 2008: UOL: Getting Agile with Scrum and XP practices
+
+(06/2007) http://www.proqualiti.org.br/sbqs2007 I Workshop de Desenvolvimento Rápido de Aplicações (WDRA): Development with agility: Experiences in a implementation of a large project
 
 
 Listener
 ------------------------
 
-- (05/2014) https://aws.amazon.com/pt/aws-summit-2014/sao-paulo/ AWS Summit 2014 - SP/Brazil
-- (05/2013) https://aws.amazon.com AWS Summit 2013 - SP/Brazil
-- (05/2009) http://www.devmedia.com.br/es_conference Engenharia de Software Conference - SP/Brazil
-- (09/2008) http://www.sucesusp.org.br Just Java 2008 - SP/Brazil
-- (12/2007) http://web.unifacs.br/eselaw IV Experimental Software Engineering Latin America Workshop (ESELAW) - SP/Brazil
-- (06/2007) http://www.proqualiti.org.br/sbqs2007 VI Simpósio Brasileiro de Qualidade de Software (SBQS) - PE/Brazil
-- (06/2007) http://www.proqualiti.org.br/sbqs2007 I Workshop de Desenvolvimento Rápido de Aplicações (WDRA) - PE/Brazil
-- (05/2007) http://code.google.com/events/developerday/2007 Google Developer Day 2007 - SP/Brazil
-- (04/2007) http://www.fisl.org.br Fórum Internacional de Software Livre (FISL) 8.0 - RS/Brazil
-- (04/2006) http://www.fisl.org.br Fórum Internacional de Software Livre (FISL) 7.0 - RS/Brazil
+(05/2014) https://aws.amazon.com/pt/aws-summit-2014/sao-paulo/ AWS Summit 2014 - SP/Brazil
+
+(05/2013) https://aws.amazon.com AWS Summit 2013 - SP/Brazil
+
+(05/2009) http://www.devmedia.com.br/es_conference Engenharia de Software Conference - SP/Brazil
+
+(09/2008) http://www.sucesusp.org.br Just Java 2008 - SP/Brazil
+
+(12/2007) http://web.unifacs.br/eselaw IV Experimental Software Engineering Latin America Workshop (ESELAW) - SP/Brazil
+
+(06/2007) http://www.proqualiti.org.br/sbqs2007 VI Simpósio Brasileiro de Qualidade de Software (SBQS) - PE/Brazil
+
+(06/2007) http://www.
+proqualiti.org.br/sbqs2007 I Workshop de Desenvolvimento Rápido de Aplicações (WDRA) - PE/Brazil
+
+(05/2007) http://code.google.com/events/developerday/2007 Google Developer Day 2007 - SP/Brazil
+
+(04/2007) http://www.fisl.org.br Fórum Internacional de Software Livre (FISL) 8.0 - RS/Brazil
+
+(04/2006) http://www.fisl.org.br Fórum Internacional de Software Livre (FISL) 7.0 - RS/Brazil
 
 Evaluator talk
 ------------------------
 
-- (04/2010) http://www.agilebrazil.com Workshop Brasileiro de Métodos Ágeis (WBMA)
-- (04/2010) http://www.csc2.ncsu.edu/conferences/esem Journal Empirical Software Engineering
-- (09/2009) http://www2.dc.ufscar.br/~eselaw09 VI Experimental Software Engineering Latin America Workshop (ESELAW)
-- (06/2009) http://www.fisl.org.br Fórum Internacional de Software Livre (FISL) 10.0
-- (06/2009) http://www.fisl.org.br/10/www/wsl2009 X Workshop de Software Livre (WSL 2009) – FISL 10.0
+(04/2010) http://www.agilebrazil.com Workshop Brasileiro de Métodos Ágeis (WBMA)
+
+(04/2010) http://www.csc2.ncsu.edu/conferences/esem Journal Empirical Software Engineering
+
+(09/2009) http://www2.dc.ufscar.br/~eselaw09 VI Experimental Software Engineering Latin America Workshop (ESELAW)
+
+(06/2009) http://www.fisl.org.br Fórum Internacional de Software Livre (FISL) 10.0
+
+(06/2009) http://www.fisl.org.br/10/www/wsl2009 X Workshop de Software Livre (WSL 2009) – FISL 10.0
 
 Portifolio
 ------------------------
