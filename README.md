@@ -4,14 +4,16 @@ Education
 **Master in Computer Science (2007-2011)**
 
   IME/USP - Institute of Mathematics and Statistics - University of São Paulo
-  Scholar by http://www.qualipso.org QualiPSo project
-  http://www.teses.usp.br/teses/disponiveis/45/45134/tde-02042012-120707/pt-br.php Automated Tests Patterns
+
+  Scholar by QualiPSo project
+
+  Automated Tests Patterns dissertation: http://www.teses.usp.br/teses/disponiveis/45/45134/tde-02042012-120707/pt-br.php
 
 
 **Course Applied Software Process Management and Testing (07/2009)**
 
-  Center for Applied Software Engineering (CASE) - http://www.case.unibz.it Libera Università di Bolzano
-  Bolzano - Itália
+  Center for Applied Software Engineering (CASE) - Libera Università di Bolzano
+  Bolzano - Itália - http://www.case.unibz.it
 
 
 **Bacharel in Computer Science (2002-2007)**
@@ -22,12 +24,11 @@ Education
 Main Links
 ------------------------
 
-- http://about.me/paulocheque
-- https://osrc.dfm.io/paulocheque
 - http://github.com/paulocheque
 - http://twitter.com/paulocheque
+- https://osrc.dfm.io/paulocheque
+- http://about.me/paulocheque
 - This CV: http://paulocheque.github.io
-- Master's dissertation: http://www.teses.usp.br/teses/disponiveis/45/45134/tde-02042012-120707/pt-br.php
 
 
 Work Experience
