@@ -1,0 +1,57 @@
+From d520ca0675cca6b3968c5cdbee568e9581b4af9d Mon Sep 17 00:00:00 2001
+From: paulocheque <paulocheque@gmail.com>
+Date: Sun, 16 Nov 2014 08:27:31 -0200
+Subject: [PATCH] Patch auto generated layout
+
+---
+ index.html             | 12 +-----------
+ stylesheets/styles.css |  2 +-
+ 2 files changed, 2 insertions(+), 12 deletions(-)
+
+diff --git a/index.html b/index.html
+index 16c37a3..fe7808f 100644
+--- a/index.html
++++ b/index.html
+@@ -14,15 +14,8 @@
+   </head>
+   <body>
+     <div class="wrapper">
+-      <header>
+-        <h1>Paulo Cheque CV</h1>
+-        <p></p>
+-
+-
+-        <p class="view"><a href="https://github.com/paulocheque">View My GitHub Profile</a></p>
+-
+-      </header>
+       <section>
++        <h1>Paulo Cheque CV</h1>
+         <h2>
+ <a id="education" class="anchor" href="#education" aria-hidden="true"><span class="octicon octicon-link"></span></a>Education</h2>
+ 
+@@ -246,9 +239,6 @@ proqualiti.org.br/sbqs2007 I Workshop de Desenvolvimento Rápido de Aplicações
+ <li>Basic skills in Smalltalk, C++ and Windows bash script.</li>
+ </ul>
+       </section>
+-      <footer>
+-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+-      </footer>
+     </div>
+     <script src="javascripts/scale.fix.js"></script>
+               <script type="text/javascript">
+diff --git a/stylesheets/styles.css b/stylesheets/styles.css
+index dacf2e1..b300bae 100644
+--- a/stylesheets/styles.css
++++ b/stylesheets/styles.css
+@@ -160,7 +160,7 @@ header ul a strong {
+ }
+ 
+ section {
+-  width:500px;
++  width:700px;
+   float:right;
+   padding-bottom:50px;
+ }
+-- 
+1.8.4.2
+
