@@ -26,7 +26,6 @@ Main Links
 
 - http://github.com/paulocheque
 - http://twitter.com/paulocheque
-- https://osrc.dfm.io/paulocheque
 - http://about.me/paulocheque
 - This CV: http://paulocheque.github.io
 
@@ -34,19 +33,19 @@ Main Links
 Work Experience
 ------------------------
 
-##### (07/2014 - present) 99taxis - http://99taxis.com
+##### (07/2013 - present) TopTal - http://www.toptal.com/resume/paulo-cheque
+
+  Member and programmer of the TopTal cooperative.
+
+
+##### (07/2014 - 12/2014) 99taxis - http://99taxis.com
 
   Senior developer. This job includes backend tasks for different projects in Java/Scala. It also includes mobile application development for iOS and Android.
 
 
-##### (05/2014 - present) Smart.PR (in Amsterdam) - http://smart.pr
+##### (05/2014 - 12/2014) Smart.PR (in Amsterdam) - http://smart.pr
 
   Senior backend programmer in Python/Django with Rest APIs, MySQl database and AngularJS in the frontend.
-
-
-##### (07/2013 - present) TopTal - http://www.toptal.com/resume/paulo-cheque
-
-  Member and programmer of the TopTal cooperative.
 
 
 ##### (04/2012 - 10/2013) RevMob - http://sdk.revmob.com
