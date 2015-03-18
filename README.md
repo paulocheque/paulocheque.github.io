@@ -139,6 +139,8 @@ Events
 Speacker
 ------------------------
 
+(02/2014) http://goo.gl/UF2c4C Campus Party Brasil 2015: Quality with Agility for Startups
+
 (09/2011) http://www.python.org.br/wiki Python Brasil: Automated Test Patterns with Django
 
 (02/2009) http://blog.locaweb.com.br/ II Locaweb TechDay: Development of Good Software through Automated Tests (http://vimeo.com/3621829 Video)
